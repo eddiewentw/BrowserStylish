@@ -1,0 +1,16 @@
+.postArticle {
+	background-color: #F2F2F2;
+}
+
+.postArticle-content .graf--p,
+.graf--li, .graf--blockquote {
+		font-size: 18px;
+}
+
+a:hover {
+	color: rgba(0,0,0,0.6);
+}
+
+hr.section-divider:before {
+	content: '.....';
+}
