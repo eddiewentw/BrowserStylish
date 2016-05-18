@@ -1,0 +1,16 @@
+.current-weather .cw-desc {
+	font-size: 2.2em;
+}
+
+.c2 {
+	margin-top: 30px;
+}
+
+.temp {
+	padding-top: 0px;
+}
+
+#dayDesc p:last-child {
+	font-size: 13px;
+	text-align: right;
+}

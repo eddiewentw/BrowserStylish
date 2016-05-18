@@ -1,0 +1,50 @@
+/* searchbox */
+#searchBox {
+  color: #fff;
+  background-color: #000;
+}
+
+/* main */
+#documentView {
+  background: #000;
+  color: #fff;
+}
+
+.page {
+  background: #222;
+  border-radius: 10px;
+}
+
+/* border */
+.edge, .corner {
+  display: none;
+}
+
+/* highlight */
+.highlighted, .highlight {
+  background: #333 !important;
+}
+
+/* link */
+.contentLink {
+  color: #44CDEF !important;
+}
+
+/* note */
+.notes > .content {
+  color: #F9266F !important;
+}
+
+/* done */
+.project.done > .name {
+  color: #E6D157 !important;
+}
+
+/* menu */
+#controlsLeft, #itemSelectionControls {
+  background: #333 !important;
+}
+
+#controlsLeft a, #itemSelectionControls a {
+  color: #fff !important;
+}

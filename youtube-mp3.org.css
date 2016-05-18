@@ -1,0 +1,17 @@
+#description, #footer {
+	display: none;
+}
+
+#content #inner {
+	width: 100%;
+	float: none;
+	margin: 0px auto;
+}
+
+#content h1 {
+	text-align: center;
+}
+
+#form #btns {
+	margin-top: 20px;
+}
