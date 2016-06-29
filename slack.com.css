@@ -32,7 +32,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e0e0e0; }
 .channels_list_holder ul li.member .im_close, .channels_list_holder ul li.mpim .mpim_close { color: #81a2be; }
 .channels_list_holder ul li.group.active .group_close, .channels_list_holder ul li.member.active .im_close, .channels_list_holder ul li.mpim.active .mpim_close { color: #ffffff; }
 .channels_list_holder ul li.mention a { color: #e0e0e0; }
-.channels_list_holder ul li.unread:not(.muted_channel) a { color: #e0e0e0; }
+.channels_list_holder ul li.unread:not(.muted_channel) a { color: #c7c7c7; letter-spacing: 1px; }
 .channels_list_holder ul li.unread .prefix { color: #e0e0e0; }
 .channels_list_holder .unread_just { background: #282a2e; color: #e0e0e0; }
 .channels_list_holder .unread_highlight { background: #bf360c; color: #e0e0e0; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
