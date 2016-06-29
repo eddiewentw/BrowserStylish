@@ -1,6 +1,6 @@
 @keyframes highlight_fade {
-	from { background-color: #373b41; }
-	to { background-color: #282a2e; }
+from { background-color: #373b41; }
+to { background-color: #282a2e; }
 }
 body { background: #282a2e; color: #e0e0e0; }
 a { color: #ffffff; }
