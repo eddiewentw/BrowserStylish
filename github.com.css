@@ -1555,3 +1555,10 @@
 .commit-tease-contributors .contributors-toggle {
 	color: white !important;
 }
+.orghead {
+	background-color: #252525;
+}
+.orghead .meta-item {
+	color: white;
+}
+
