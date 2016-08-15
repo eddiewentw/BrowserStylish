@@ -1561,4 +1561,6 @@
 .orghead .meta-item {
 	color: white;
 }
-
+.timeline-commits .commit-message>code a {
+	color: #eee;
+}
