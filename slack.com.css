@@ -448,7 +448,6 @@ ts-message .meta.msg_inline_img_toggler .member, ts-message .meta.msg_inline_img
 ts-message .meta.msg_inline_img_toggler .ts_icon_dropbox, ts-message .meta.msg_inline_img_toggler a, ts-message .meta.msg_inline_file_preview_toggler .ts_icon_dropbox, ts-message .meta.msg_inline_file_preview_toggler a { color: #81a2be !important; }
 ts-message .pinned_item_message_header { color: #81a2be; }
 ts-message .mention { background: #373b41; border: 1px solid #969896; border-radius: 3px; color: #e0e0e0; padding: 0 3px; }
-ts-message a .mention { color: #e0e0e0; }
 .selecting_messages ts-message.multi_delete_mode:hover { background: rgba(191, 54, 12, 0.75); }
 .selecting_messages ts-message:hover { background: #1d1f21; }
 #conversation_container { background-color: rgba(40, 42, 46, 0.85); }
@@ -1517,3 +1516,4 @@ body > .section.main { background: #282a2e; box-shadow: none; }
 
 /* EDDIE */
 .supports_custom_scrollbar .team_menu.slack_menu .menu_content { background: #282a2e; }
+ts-message a .mention { color: #202020; }
