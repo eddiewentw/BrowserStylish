@@ -645,3 +645,9 @@ textarea.js-gfm-input, form.new_variable #variable_key, form.new_variable #varia
 .code.white .nt {
 	color: white;
 }
+.code.white .line_holder.new > .line_content.new {
+	background-color: #65b265;
+}
+.code.white .line_holder.old > .line_content.old {
+	background-color: #b26565;
+}
