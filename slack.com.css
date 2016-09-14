@@ -1520,3 +1520,4 @@ ts-message .comment a .mention { color: #202020; }
 .supports_custom_scrollbar .fs_modal_file_viewer_content .aside_panel { background-color: rgb(20, 20, 20); }
 .fs_modal_file_viewer_content #file_comment { color: white; }
 .aside_panel .comment .mention { color: #202020; }
+.channel_header { background-color: #282a2e; }
