@@ -1520,7 +1520,7 @@ ts-message .comment a .mention { color: #202020; }
 .fs_modal_file_viewer_content #file_comment { color: white; }
 .aside_panel .comment .mention { color: #202020; }
 #channel_title { color: white; }
-.channel_header,
+#client_header .channel_header,
 #client_header .channel_header:not(.channel_header_refactor) #channel_header_info,
 #client_header .channel_header:not(.channel_header_refactor) .channel_title_info,
 #client_header .channel_header:not(.channel_header_refactor) .flex_header { background-color: #282a2e; }
