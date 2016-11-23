@@ -421,7 +421,6 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 .inline_edit.inline_edit_editing .inline_edit_inner::after { color: #81a2be; }
 #msgs_overlay_div { background: #282a2e; }
 ts-message { color: #e0e0e0; }
-ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight) { background: rgba(29, 31, 33, 0.1); }
 ts-message .timestamp { color: #ffffff; }
 ts-message .edited, ts-message .temp_msg_controls { color: #81a2be; }
 ts-message .only_visible_to_user { color: #81a2be; }
@@ -1525,3 +1524,4 @@ ts-message .comment a .mention { color: #202020; }
 #client_header .channel_header:not(.channel_header_refactor) .channel_title_info,
 #client_header .channel_header:not(.channel_header_refactor) .flex_header { background-color: #282a2e; }
 #client_header .channel_header:not(.channel_header_refactor) .channel_name_container .channel_name { color: #cdcdcd; }
+ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) { background: #33363a; }
