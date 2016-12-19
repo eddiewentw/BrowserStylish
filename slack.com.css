@@ -170,7 +170,6 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 #message_edit_form.focus #primary_file_button:not(:hover), #messages-input-container.focus #primary_file_button:not(:hover) { border-color: #282a2e; }
 #primary_file_button { background: padding-box #373b41; border: 2px solid #373b41; }
 #primary_file_button.active, #primary_file_button:hover { background: #373b41; border: 2px solid #282a2e; color: #81a2be; }
-#footer, #footer:not(.footer_msg_input) { background: #282a2e; }
 #footer.disabled #message-input { background: padding-box #282a2e !important; border: 2px solid #282a2e !important; }
 #footer_archives_table { color: #81a2be; }
 #typing_text { color: #81a2be; }
@@ -1525,3 +1524,4 @@ ts-message .comment a .mention { color: #202020; }
 #client_header .channel_header:not(.channel_header_refactor) .flex_header { background-color: #282a2e; }
 #client_header .channel_header:not(.channel_header_refactor) .channel_name_container .channel_name { color: #cdcdcd; }
 ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) { background: #33363a; }
+#client_body #footer.footer_msg_input { background-image: none; background: #282a2e; }
