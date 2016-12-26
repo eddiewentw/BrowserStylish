@@ -495,7 +495,6 @@ ts-message .mention { background: #373b41; border: 1px solid #969896; border-rad
 .light_theme ts-message .meta { color: #81a2be; }
 .light_theme ts-message .file_service_icon { color: #81a2be; }
 .light_theme #message_editing_info { color: #81a2be; }
-.light_theme #message_edit_form textarea { color: #e0e0e0; }
 .light_theme #message_edit_form p, .light_theme #message_edit_form span { color: #81a2be; }
 .light_theme .msg_inline_video_holder { border: 1px solid #282a2e; }
 .light_theme .pinned_item_message_header { color: #81a2be; }
