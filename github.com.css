@@ -1564,3 +1564,10 @@
 .timeline-commits .commit-message>code a {
 	color: #eee;
 }
+.topic-tag {
+	background-color: transparent;
+	border: 1px solid #6F6;
+}
+.topic-tag:hover {
+	background-color: #010E1A;
+}
