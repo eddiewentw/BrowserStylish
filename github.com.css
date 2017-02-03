@@ -1571,3 +1571,7 @@
 .topic-tag:hover {
 	background-color: #010E1A;
 }
+.user-profile-sticky-bar::after,
+.user-profile-nav {
+	background-color: #456;
+}
