@@ -1524,4 +1524,4 @@ ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.
 #msg_input { background-color: #373b41; border: 1px solid #1d1f21; color: #e0e0e0; }
 #msg_input:focus { border-color: rgba(150, 152, 150, 0.8); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(150, 152, 150, 0.6); }
 ts-thread .thread_messages { background-color: #282a2e; }
-#all-unreads-list, #app_messages { display: none; }
+.p-channel_sidebar__static_list > div:nth-child(2) { display: none; }
