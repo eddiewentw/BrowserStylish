@@ -1578,3 +1578,10 @@
 .gh-header {
 	background-color: initial;
 }
+.Box-header {
+	background-color: #234;
+	margin: -1px -1px 1px;
+}
+.Box--condensed .Box-row {
+	background-color: #456;
+}
