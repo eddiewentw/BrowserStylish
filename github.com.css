@@ -1585,3 +1585,9 @@
 .Box--condensed .Box-row {
 	background-color: #456;
 }
+.Box {
+	background-color: #456;
+}
+.dashboard-break-word {
+	color: #6a737d !important;
+}
