@@ -1591,3 +1591,7 @@
 .dashboard-break-word {
 	color: #6a737d !important;
 }
+#readme .markdown-body, #readme .plain {
+	border: none;
+	background-color: #456;
+}
