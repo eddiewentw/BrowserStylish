@@ -1595,3 +1595,7 @@
 	border: none;
 	background-color: #456;
 }
+.btn-link:disabled,
+.btn-link:disabled:hover {
+	color: #FFF;
+}
