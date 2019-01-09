@@ -1599,3 +1599,11 @@
 .btn-link:disabled:hover {
 	color: #FFF;
 }
+.gh-header .gh-header-sticky.is-stuck+.gh-header-shadow {
+	background-color: #456;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.75);
+}
+.gh-header .gh-header-sticky.is-stuck > .sticky-content .text-gray,
+.gh-header .gh-header-sticky.is-stuck > .sticky-content .text-gray > a.author {
+	color: #EAECEF !important;
+}
